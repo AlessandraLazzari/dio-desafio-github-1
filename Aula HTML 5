@@ -1,0 +1,27 @@
+# HMTL5
+
+## Síntaxe:
+ - < xy > Abrir uma tag ;
+  - "xy" - atributo;
+  - Mimmimi - Conteúdo;
+ - </ xy > Fechar uma tag;
+ ex: <h1 class="Título"> TÍTULO </h1>
+____________________________________________________________________________________________________________________________________________________________
+ ## Estrutura Básica:
+<!DOCTYPE html>
+ <hmtl>
+  <head>
+   <meta>
+   <title> </title>
+  </head>
+ <body>
+</body>
+</html>
+____________________________________________________________________________________________________________________________________________________________
+<section> - Sessão genérica de conteúdo
+<header> - Cabeçalho
+<article> - Conteúdo Relevante 
+<aside> - Conteúdo relacionado ao conteúydo principal
+<footer> - rodapé
+<h1> até <h6> - títulos (apenas 1 <h1> por pg.).
+____________________________________________________________________________________________________________________________________________________________
