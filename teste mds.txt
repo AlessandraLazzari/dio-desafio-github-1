@@ -1,0 +1,3 @@
+<!DOCTYUPE html>
+<h1> dels me ajuda </h1>
+<footer> dedico esse documento a paciêndo do humano </footer>
