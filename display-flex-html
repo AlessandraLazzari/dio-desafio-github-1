@@ -1,26 +1,39 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang=“en”>
 <head>
-<meta charset=“utf-8”/>
-<title>Fundamentos - display flex</title>
-<style>
-    .flex{
+    <meta charset=“UTF-8”/>
+    <title>Fundamentos - display flex</title>
+        <style>
+        .flex{
         max-width: 300px;
         padding: 10px;
         border: 2px solid black;
-    }
+        display: flex;
+     }
 
-    .item{
+        .item{
         background-color: aqua;
         margin: 5px;
-    }
-</style>
+     }
+
+        </style>
 </head>
 <body>
-    <div>
+    <div class="flex">
         <div class="item">Item 1</div>
         <div class="item">Item 2</div>
         <div class="item">Item 3</div>
     </div>
+    
+    <div>
+        <h1>Fundamentos - Flex direction</h1>
+        <style>
+            .flex-container{
+
+            }
+        </style>
+    </div>
+    
+
 </body>
 </html>
